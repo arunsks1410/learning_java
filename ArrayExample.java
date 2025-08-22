@@ -1,5 +1,7 @@
 class ArrayExample {
+
     public static void main(String[] args) {
+
         // Class Work
         String[] electronicItems = { "LG_AC", "Moto G45", "RAM", "Projector", "Mic" };
         int[] prices = { 30000, 10000, 8000, 15490, 2450 };
