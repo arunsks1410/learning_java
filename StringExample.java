@@ -57,7 +57,7 @@ class StringExample {
         for (char ch : result) {
             System.out.println("ch : " + ch);
         }
-        // System.out.println(result);
+        System.out.println(result);
 
         System.out.println(state.contains("Tamil"));
 
